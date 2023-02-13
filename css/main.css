@@ -19,7 +19,7 @@ h2 {
 
 #column-con {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 
 #box1 {
